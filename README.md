@@ -1,14 +1,18 @@
-<h2>Crystals Collector</h2><br>
-<p>The Crystals Collector will assign you 4 crystals with randomly generated values. Click the crystals and hit the target amount without going over!</p>
+## Crystals Collector
+The Crystals Collector will assign you 4 crystals with randomly generated values. Click the crystals and hit the target amount without going over!
 
-<h2>Motivation</h2><br>
-<p>Crystals Collector was designed to test my skills in jQuery. jQuery is used for a series of onClicks which contain the calculations to determine whether the user has won or lost.</p>
+## Motivation
+Crystals Collector was designed to test my skills in jQuery. jQuery is used for a series of onClicks which contain the calculations to determine whether the user has won or lost.
   
-<h2>Sneak Peak</h2><br>
+## Sneak Peak
+![Crystals](https://user-images.githubusercontent.com/53287044/74378972-204b4300-4da4-11ea-8eb8-c61613af18bd.jpg)
 
+## Installation
+* Fork It
+* Clone It
 
-<h2>Technologies</h2>
-JavaScript <br>
-jQuery <br>
-HTML <br>
-CSS <br>
+## Technologies
+* JavaScript 
+* jQuery 
+* HTML 
+* CSS 
