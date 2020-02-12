@@ -8,7 +8,7 @@
 
 
 <h2>Technologies</h2>
-JavaScript
-jQuery
-HTML
-CSS
+JavaScript <br>
+jQuery <br>
+HTML <br>
+CSS <br>
