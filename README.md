@@ -10,7 +10,7 @@ The value of each crystal is hidden from you until you click on it.
 Each time when the game starts, the game will change the value of each crystal.
 
 ## Motivation
-Crystals Collector was designed to test my skills in jQuery. jQuery is used for a series of onClicks which contain the calculations to determine whether the user has won or lost.
+Crystals Collector was designed to test my skills in jQuery. jQuery is used for a series of onClicks with if/else statements which contain the calculations to determine whether the user has won or lost.
   
 ## Sneak Peak
 ![Crystals](https://user-images.githubusercontent.com/53287044/74378972-204b4300-4da4-11ea-8eb8-c61613af18bd.jpg)
